@@ -1,0 +1,19 @@
+.text-center{
+    background-color: lightcoral;
+    font-family: 'Open Sans', sans-serif;
+    line-height:2;
+    color: snow;
+
+}
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    border-radius: 0;
+    border-bottom: 10px solid black;
+  }
+  .card-header
+  {
+      background-color: rgb(89, 14, 230);
+      color: snow;
+  }
